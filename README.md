@@ -25,4 +25,6 @@ After all the installlation have completed,
 
 
 
-**GOOD LUCK** *Thanks for chosing **PLEP** *
+**GOOD LUCK** 
+
+*Thanks for chosing* **PLEP**
