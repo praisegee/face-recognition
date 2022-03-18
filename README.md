@@ -21,7 +21,7 @@ The above command will install all the dependencies/requirements you need to run
 After all the installlation have completed,
 
 
-##Rest, You follow the voice note I sent to you!
+### Rest, You follow the voice note I sent to you!
 
 
 **GOOD LUCK** 
