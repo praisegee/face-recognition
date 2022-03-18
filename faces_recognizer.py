@@ -1,7 +1,4 @@
-from cProfile import label
 import os, pickle
-from tkinter import font
-from unicodedata import name
 import cv2
 
 

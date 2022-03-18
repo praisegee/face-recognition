@@ -1,5 +1,3 @@
-
-from itertools import count
 import cv2, os
 from datetime import datetime as dt
 
